@@ -1,0 +1,4 @@
+yfinance==0.1.63
+pandas==1.4.0
+matplotlib==3.5.1
+mplfinance==0.12.7a17
